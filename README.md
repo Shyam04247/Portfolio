@@ -50,7 +50,7 @@ This portfolio design is inspired by modern web portfolios and customized with m
 
 ## 🚀 Live Website
 
-(Will be added after deployment)
+https://portfolio-sigma-blue-69.vercel.app/
 
 ---
 
